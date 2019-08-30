@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.spotify</groupId>
+  <artifactId>dockerfile-maven-extension</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4.13-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190830183553</lastUpdated>
+  </versioning>
+</metadata>
